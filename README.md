@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bltwx
-- 👀 I’m interested in electronic music production, DSP and sound design.
+- 👀 I’m interested in electronic music production, DSP, sound design and plants.
 - 🌱 I’m currently learning Jekyll/Markdown, Cycling '74 MAX/MSP, JS and C++.
 - 💞️ I’m looking to collaborate on audio projects that need expert audio repair, mixing and mastering.
 - 📫 How to reach me: Pigeon.
